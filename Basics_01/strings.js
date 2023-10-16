@@ -22,7 +22,7 @@ console.log(full_name);
  console.log(last_name.indexOf("a"));
 
  //common string methods: trim(), lastIndexOf
- let text = "       Hello World!        ";
+ let text = "      Hello World!        ";
 let result = text.trim();
 console.log(result);
 
